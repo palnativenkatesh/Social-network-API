@@ -50,9 +50,9 @@ https://django-allauth.readthedocs.io/en/latest/installation.html#post-installat
 
 ## Others
 
-- To use other DB edit this https://github.com/Ronik22/Django_Social_Network_App/blob/main/myproject/settings.py#L107
-- To use other providers edit this https://github.com/Ronik22/Django_Social_Network_App/blob/main/myproject/settings.py#L205
-- To use redis instead edit this https://github.com/Ronik22/Django_Social_Network_App/blob/main/myproject/settings.py#L197
+- To use other DB edit this https://github.com/venkatesh11/Django_Social_Network_App/blob/main/myproject/settings.py#L107
+- To use other providers edit this https://github.com/venkatesh11/Django_Social_Network_App/blob/main/myproject/settings.py#L205
+- To use redis instead edit this https://github.com/venkatesh111/Django_Social_Network_App/blob/main/myproject/settings.py#L197
 
 ## Running Tests
 
